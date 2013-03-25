@@ -2,7 +2,7 @@
   	"name"		: "hero"
 ,	"version"	: "0.1.1"
 ,	"author"		: "Jonas Da Cruz <unlogic@gmail.com>"
-,	"contributors"	: ["Luis Mesas <luismesas@gmail.com"]
+,	"contributors"	: ["Luis Mesas <luismesas@gmail.com>"]
 ,	"repository"	: {"type": "git", "url": "git://github.com/thegameofcode/hero.git"}
 ,	"main"			: "index.js"
 ,  	"dependencies"	: {
