@@ -15,6 +15,7 @@
 	,  	"mongodb" 	: "1.2.x"
 	,	"redis"		: "0.8.2"
 	,	"xtend"		: "1.0.x"
+	,  	"amqp"	 	: "https://github.com/postwait/node-amqp/tarball/master"
 	}
 ,
 	"engines" : {
