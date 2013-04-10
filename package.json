@@ -1,5 +1,5 @@
 {
-  	"name"		: "hero"
+	"name"		: "hero"
 ,	"version"	: "0.1.4"
 ,	"author"		: "Jonas Da Cruz <unlogic@gmail.com>"
 ,	"contributors"	: [
@@ -8,19 +8,16 @@
 	]
 ,	"repository"	: {"type": "git", "url": "git://github.com/thegameofcode/hero.git"}
 ,	"main"			: "index.js"
-,  	"dependencies"	: {
-	  	"express" 	: "3.x"
-    ,  	"async"	 	: "0.2.x"
-	,	"q"			: "0.8.x"
-	,  	"mongodb" 	: "1.2.x"
+,	"dependencies"	: {
+		"express"	: "3.x"
+	,	"mongodb"	: "1.2.x"
 	,	"redis"		: "0.8.2"
 	,	"xtend"		: "1.0.x"
-	,  	"amqp"	 	: "https://github.com/postwait/node-amqp/tarball/master"
+	,	"amqp"		: "https://github.com/postwait/node-amqp/tarball/master"
 	}
 ,
 	"engines" : {
-    	"node"	: "0.10.x"
-    ,	"npm"	: "1.2.x"
-  	}
+		"node"	: "0.10.x"
+	,	"npm"	: "1.2.x"
+	}
 }
-
