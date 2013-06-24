@@ -1,4 +1,8 @@
-0.1.12 / 2013-06-24
+0.1.13 / ----------
+===================
+
+  * Upgraded mongo driver
+
 ===================
 
   * Compatible with mongodb replica sets
