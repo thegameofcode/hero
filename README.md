@@ -3,7 +3,7 @@ Hero.js
 
 ##What is?
 
-Hero is a library that give supports to a methodology, is not a framework, Hero works well with any NodeJS framework as Express, Hapi, Connect or any other.
+Hero is a NodeJS library that give supports to a methodology, is not a framework, Hero works well with any NodeJS framework as Express, Hapi, Connect or any other.
 
 Hero allows direct connection with MongoDB and Redis databases and with the queue management system RabbitMQ and ZeroMQ, but you can connect with any other database and queue management system coding your own DTO (Data Transfer Object) or QTO (Queue Transfer Object).
 
