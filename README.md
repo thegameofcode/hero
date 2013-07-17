@@ -29,7 +29,7 @@ Provides abstraction about the interconnection with the rest of pieces including
 
 ####End-point
 
-Provides abstraction about the publish interfaces to provide http/s services.
+Provides abstraction about the publish interfaces to provide http/s services. End-points communicates synchronous or asynchronous with Wrokers to start the logic behind the service.
 
 
 ###Architecture communications
