@@ -34,5 +34,5 @@ Provides abstraction about the publish interfaces to provide http/s services.
 
 ###Architecture communications
 
-<img src='./img/hero-architecture-v0.1.png'>
+<img src='./doc/img/hero-architecture-v0.1.png'>
 
