@@ -32,7 +32,7 @@ Provides abstraction about the interconnection with the rest of pieces including
 Provides abstraction about the publish interfaces to provide http/s services. End-points communicates synchronous or asynchronous with Wrokers to start the logic behind the service.
 
 
-###Architecture communications
+###Communications architecture
 
 <img src='./doc/img/herojs-pieces-architecture-0.2.png'>
 
