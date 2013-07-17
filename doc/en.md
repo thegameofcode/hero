@@ -32,6 +32,7 @@ Provides abstraction about the interconnection with the rest of pieces including
 Provides abstraction about the publish interfaces to provide http/s services.
 
 
+###Architecture communications
 
 <img src='./img/hero-architecture-v0.1.png'>
 
