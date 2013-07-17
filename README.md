@@ -19,7 +19,7 @@ Provides abstraction about the asynchronous starting databases connection poolin
 
 ####QTO (Queue Transfer Object)
 
-Provides abstraction about the asynchronous start connections.
+Provides abstraction about the asynchronous start connections. Helps to send and drain messages.
 
 
 ####Worker
