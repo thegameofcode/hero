@@ -14,16 +14,24 @@ Hero provides 4 different architectural pieces to simplify and organize the rela
 
 ####DTO (Data Transfer Object)
 
+Provides abstraction about the asynchronous start connection pooling. Helps to organize the access through methods and specify a concrete collections, tables or hashes.
+
 
 ####QTO (Queue Transfer Object)
+
+Provides abstraction about the asynchronous start connections.
 
 
 ####Worker
 
+Provides abstraction about the interconnection with the rest of pieces including other Workers, this is the place where the business logic must be.
+
 
 ####End-point
 
+Provides abstraction about the publish interfaces to provide http/s services.
 
-<center>
+
+
 <img src='./img/hero-architecture-v0.1.png'>
-</center>
+
