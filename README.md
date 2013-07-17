@@ -14,7 +14,7 @@ Hero provides 4 different architectural pieces to simplify and organize the rela
 
 ####DTO (Data Transfer Object)
 
-Provides abstraction about the asynchronous start connection pooling. Helps to organize the access through methods and specify a concrete collections, tables or hashes.
+Provides abstraction about the asynchronous starting databases connection pooling. Helps to organize the access through methods and specify a concrete collections, tables or hashes.
 
 
 ####QTO (Queue Transfer Object)
