@@ -24,4 +24,6 @@ Hero provides 4 different architectural pieces to simplify and organize the rela
 ####End-point
 
 
+<center>
 <img src='./img/hero-architecture-v0.1.png'>
+</center>
