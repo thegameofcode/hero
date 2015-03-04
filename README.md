@@ -1,3 +1,6 @@
+----DEPRECATED----
+
+
 Hero.js
 =======
 
